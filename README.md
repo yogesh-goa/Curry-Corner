@@ -2,6 +2,8 @@
 
 Team Name: Curry Corner (PS5)
 
+Video Link: [Video Link](https://drive.google.com/file/d/1gQ7e6FEqKOJ4YhnXY2j2qNK78Ig6qQFe/view?usp=sharing )
+
 Team Members:
 - Azvern Dias (Team Leader):
 	- Contact Number:+91 8262082881
