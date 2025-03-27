@@ -22,5 +22,5 @@ Individual Contributions / Tech Stack:
 - Siddharth Dey: AI-ML / TensorFlow, Pytorch, Python
 
 Approach to solve the problem:
-- Utilising the open source OpenFoodFacts API to implement the requirements of the Problem Statement.
+- Nutri-Scan, powered by the OpenFoodFacts API, is a Flutter-based AI-driven consumer guide that scans barcodes to fetch detailed product insights, including ingredients, allergens, and additives. It provides AI-driven health and sustainability ratings based on nutrition, environmental impact, and ethical sourcing. Users can set dietary preferences and health goals for personalized recommendations and healthier alternatives. An AI chatbot answers product-related queries, while community reviews  enhance decision-making. Optimized for a fast and interactive  experience, Nutri-Scan helps consumers make informed and conscious purchasing choices.
 
